@@ -1,0 +1,19 @@
+---
+title: 'My first Markdown'
+author: 'Jet van Genuchten'
+date: 'August 7 2024'
+output: pdf_document
+---
+# This is my first markdown file
+**this is bold**
+*this is in Italics*
+
+## I can also make a smaller header ##
+### smallest header ###
+# Code chunk coming #
+```{r}
+print('hello world')
+```
+
+
+
