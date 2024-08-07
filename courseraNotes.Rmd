@@ -1,0 +1,17 @@
+---
+title: 'coursera notes'
+author: 'Jet'
+output: pdf_document
+---
+
+# notes from r programming week 1 #
+R has five basic or atomic classes of objects:
+* character
+* numeric
+* integer
+* logical (True/False)
+
+The most basic object is a vector
+* a vector can **only** contain objects of the same class
+* list is the exception that is represented as a vector but can contain certain objects of different classes
+
